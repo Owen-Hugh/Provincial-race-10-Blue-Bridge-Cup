@@ -1,0 +1,7 @@
+".\Objects\main.obj",
+".\Objects\bsp_init.obj",
+".\Objects\time.obj",
+".\Objects\iic.obj",
+".\Objects\key.obj" 
+TO ".\Objects\1" 
+PRINT(".\Listings\1.m51") RAMSIZE(256) 
